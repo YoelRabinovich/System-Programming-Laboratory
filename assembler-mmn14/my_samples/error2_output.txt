@@ -1,0 +1,7 @@
+
+Working on file: 'error2.as'
+Error in line 3: Unrecognized symbol 'LIST'
+Error in line 5: Unrecognized symbol 'LIST'
+Error in line 8: Unrecognized symbol 'r8'
+Error in line 9: Unrecognized symbol 'r19'
+*** 4 errors found in second pass. Skipping file. ***

@@ -1,0 +1,7 @@
+
+Working on file: 'error.as'
+Error in line 7. Incorrect number of args for 'lea'. Expected 2 but got 1
+Error in line 13. Incorrect number of args for 'cmp'. Expected 2 but got 1
+Error in line 14. Incorrect number of args for 'bne'. Expected 1 but got 2
+Error in line 22: String missing quotes: "abcd" lala
+*** Syntax checker found 4 errors. Skipping file. ***

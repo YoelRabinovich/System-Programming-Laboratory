@@ -1,0 +1,19 @@
+read_comp A, 7, 8
+read_comp A, 7, 
+read_comp B, 2, Xyz
+read_comp B, 2, 3
+print_comp A
+print_comp B
+add_comp A, B
+sub_comp A, B
+mult_comp_real A, -17
+mult_comp_img A, 3
+mult_comp_comp A,B
+abs_comp A
+read_comp G,3,7
+do_it A,B
+Add_comp A,c
+stop
+
+
+
